@@ -581,6 +581,9 @@ SOFTWARE.
 
 
 
+arcsecond
+MIT
+
 atob-lite
 MIT
 This software is released under the MIT license:
