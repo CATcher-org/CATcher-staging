@@ -59,7 +59,7 @@
     "node-fetch": "^2.6.8",
     "rxjs": "6.6.7",
     "tslib": "^2.0.0",
-    "uuid": "7.0.3",
+    "uuid": "9.0.0",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
